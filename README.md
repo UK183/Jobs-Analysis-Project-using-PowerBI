@@ -60,6 +60,6 @@ This dashboard showcases how Power BI can transform raw job posting data into a 
 ---
 
 ### 👤 Author
-[**Kazi Umar**](www.linkedin.com/in/umar-kazi18)  
+[**Kazi Umar**](https://www.linkedin.com/in/umar-kazi18)  
 💼 Data & AI Enthusiast | Power BI | Python | SQL
 
