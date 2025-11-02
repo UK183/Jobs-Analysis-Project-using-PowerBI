@@ -1,7 +1,7 @@
 # Data Jobs Dashboard with Power BI
 
 <div>
-  <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
+  <img src="demo/demo.gif" alt="Data Jobs Dashboard GIF">
 </div>
 
 
