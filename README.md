@@ -36,7 +36,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)  
 
-This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+This dashboard describes data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
