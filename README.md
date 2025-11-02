@@ -1,8 +1,9 @@
 # Data Jobs Dashboard with Power BI
 
-<div>
+<div align="center">
   <img src="demo/demo.gif" alt="Data Jobs Dashboard GIF">
 </div>
+
 
 
 
@@ -35,7 +36,7 @@ This project was a journey through key Power BI features. Here's a look at what 
 ### Page 1: High-Level Market View
 
 <p align="center">
-  <img src="images/Dashboard 1.PNG" alt="Dashboard 1" width="60%">
+  <img src="images/Dashboard 1.PNG" alt="Dashboard 1" width="60%"><br>
   <img src="images/Filtered Dashboard 2.PNG" alt="Filtered Dashboard" width="60%">
 </p>
  
